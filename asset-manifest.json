@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mouazourassen18.github.io/csb-72r8u/static/js/main.38e1a0b6.chunk.js",
+    "main.js.map": "https://mouazourassen18.github.io/csb-72r8u/static/js/main.38e1a0b6.chunk.js.map",
+    "runtime-main.js": "https://mouazourassen18.github.io/csb-72r8u/static/js/runtime-main.c09b8a85.js",
+    "runtime-main.js.map": "https://mouazourassen18.github.io/csb-72r8u/static/js/runtime-main.c09b8a85.js.map",
+    "static/js/2.7bd492ba.chunk.js": "https://mouazourassen18.github.io/csb-72r8u/static/js/2.7bd492ba.chunk.js",
+    "static/js/2.7bd492ba.chunk.js.map": "https://mouazourassen18.github.io/csb-72r8u/static/js/2.7bd492ba.chunk.js.map",
+    "index.html": "https://mouazourassen18.github.io/csb-72r8u/index.html",
+    "precache-manifest.d253b8915956ab617cad5134f1a713e5.js": "https://mouazourassen18.github.io/csb-72r8u/precache-manifest.d253b8915956ab617cad5134f1a713e5.js",
+    "service-worker.js": "https://mouazourassen18.github.io/csb-72r8u/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c09b8a85.js",
+    "static/js/2.7bd492ba.chunk.js",
+    "static/js/main.38e1a0b6.chunk.js"
+  ]
+}
